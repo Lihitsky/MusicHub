@@ -1,0 +1,92 @@
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MainWindow.g.cs
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\App.g.cs
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub_MarkupCompile.cache
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub_MarkupCompile.lref
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MainWindow.baml
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.g.resources
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.pdb
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\App.baml
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.CopyComplete
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\Id3.Net.dll
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\JetBrains.Annotations.dll
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\Id3.Net.xml
+C:\Users\пк\source\repos\MusicHub\MusicHub\bin\Debug\JetBrains.Annotations.xml
+C:\Users\пк\source\repos\MusicHub\MusicHub\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub_MarkupCompile.cache
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub_MarkupCompile.lref
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.pdb
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\Id3.Net.dll
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\JetBrains.Annotations.dll
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\Id3.Net.xml
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\JetBrains.Annotations.xml
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\artur\source\repos\MusicHub\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.g.resources
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\MusicHub.csproj.CopyComplete
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\Controls\SliderControl.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\Controls\VolumeSliderControl.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\View\MainWindow.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\Controls\VolumeSliderControl.baml
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\Controls\SliderControl.baml
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\View\MainWindow.baml
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\View\App.g.cs
+C:\Users\artur\source\repos\MusicHub\MusicHub\obj\Debug\View\App.baml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MusicHub.exe.config
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MusicHub.exe
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MusicHub.pdb
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\Id3.Net.dll
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\JetBrains.Annotations.dll
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\Id3.Net.xml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\JetBrains.Annotations.xml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\View\MainWindow.g.cs
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\Controls\SliderControl.g.cs
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\Controls\VolumeSliderControl.g.cs
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\View\App.g.cs
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub_MarkupCompile.cache
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub_MarkupCompile.lref
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\View\App.baml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\View\MainWindow.baml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\Controls\SliderControl.baml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\Controls\VolumeSliderControl.baml
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.g.resources
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.Properties.Resources.resources
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.csproj.CopyComplete
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.exe
+C:\Users\artur\source\repos\MusicHub — копия\MusicHub\obj\Debug\MusicHub.pdb

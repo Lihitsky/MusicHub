@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="MusicHub.VolumeSliderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MusicHub"
+             mc:Ignorable="d">
+
+    <Grid>
+        <Slider x:Name="VolumeSlider" 
+                Maximum="1"
+                Value="{Binding CustomMediaElement.Volume, Mode=OneWay}"
+                Foreground="Aqua" 
+                Orientation="Vertical" 
+                HorizontalAlignment="Center"
+                Width="18" Height="80"
+                ValueChanged="VolumeSlider_ValueChanged">
+        </Slider>
+    </Grid>
+</UserControl>
